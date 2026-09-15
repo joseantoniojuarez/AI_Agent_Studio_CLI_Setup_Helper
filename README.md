@@ -33,7 +33,7 @@ The setup has been tested on both platforms.
 
    Or simply ask Codex to prepare your computer for Oracle AI Agent Studio CLI development.
 
-The full workflow is defined in [SKILL.md](setup-oracle-ai-agent-studio-cli/SKILL.md).
+The full workflow is defined in [SKILL.md](SKILL.md).
 
 ## What to expect
 
