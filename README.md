@@ -25,7 +25,7 @@ The setup has been tested on both platforms.
 1. Create or open a local Codex project and select an empty, user-writable folder as its primary folder.
 2. Start a Codex chat in the local project.
 3. Attach `SKILL.md` to the prompt 
-4. Ask `Help me install AI Agent Studio ussing the attached skill`
+4. Ask `Help me install AI Agent Studio using the attached skill`
 
 The full workflow is defined in [SKILL.md](SKILL.md).
 
