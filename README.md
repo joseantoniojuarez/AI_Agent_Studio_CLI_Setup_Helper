@@ -23,15 +23,9 @@ The setup has been tested on both platforms.
 ## Use the skill
 
 1. Create or open a local Codex project and select an empty, user-writable folder as its primary folder.
-2. Copy the `setup-oracle-ai-agent-studio-cli` folder into that project's `.agents/skills/` directory, or install it in your personal `.agents/skills/` directory.
-3. Start a Codex chat in the local project.
-4. Invoke the skill:
-
-   ```text
-   $setup-oracle-ai-agent-studio-cli
-   ```
-
-   Or simply ask Codex to prepare your computer for Oracle AI Agent Studio CLI development.
+2. Start a Codex chat in the local project.
+3. Attach `SKILL.md` to the prompt 
+4. Ask `Help me install AI Agent Studio ussing the attached skill`
 
 The full workflow is defined in [SKILL.md](SKILL.md).
 
